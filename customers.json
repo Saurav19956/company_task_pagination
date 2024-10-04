@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "first_name": "Aman",
+      "last_name": "Gupta",
+      "city": "Ahmedabad",
+      "company": "SublimeDataSystems"
+    },
+    {
+      "id": 2,
+      "first_name": "Ishaan",
+      "last_name": "Singh",
+      "city": "Delhi",
+      "company": "TechCorp"
+    },
+    {
+      "id": 3,
+      "first_name": "Divit",
+      "last_name": "Rehan",
+      "city": "Ahmedabad",
+      "company": "InnoTech"
+    }
+  ]
+  
